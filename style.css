@@ -1,0 +1,139 @@
+/* UNORDERED LIST */
+/* ul{
+    list-style-type:square;
+} */
+/* ORDERED LIST */
+/* ol {
+    list-style-type:lower-roman;
+} */
+/* IMAGES FOR BULLET */
+/* ul{
+    list-style-image: url(./icons8-right-94.png) ;
+   
+}
+
+li {
+    margin: 10px 0px 0px 0px;} */
+    /* LIST-STYLE POSITION */
+    /* .hi{
+        list-style-position: inside;
+    }
+    .hy{
+        list-style-position: outside;
+    } */
+
+    /* SHORT HAND */
+    /* ul{
+        list-style: inside square;
+    } */
+    /* TABLE PROPERTIES */
+    /* table {
+        width: 200px;
+        padding: 40px;
+        border: 10px solid red;
+       text-transform: lowercase;
+       letter-spacing: 2px;
+       font-size: xx-large;
+       border-top: 20px solid brown;
+       border-bottom: 20px solid blue;
+
+
+    } */
+    /* table,td,th{
+        border: 4px solid brown;
+        border-collapse: collapse;
+        text-align: center;
+    }
+    table{
+        background-color: aqua;
+    }
+    tr:hover{
+        background-color: burlywood;
+         cursor: pointer;
+    }
+    td{
+        padding: 20px;
+    }
+    .even{
+        background-color: black;
+        color: aliceblue;
+    } */
+    /* BORDER ON EMPTY CELLS */
+  /* td{
+    border: 1px solid blueviolet;
+    padding: 20px;
+  }
+  table{
+    empty-cells: hide;
+  } */
+  /* GAPS BETWEEN CELLS */
+  /* td{
+    background-color: black;
+    color: aliceblue;
+    padding: 20px;
+    border: 1px solid red;
+  }
+  table{
+    border-spacing: 50px 10px;
+  }
+  table{
+    border-collapse: collapse;
+  } */
+  /* STYLING TEXT INPUT */
+   #Github{
+    margin-top: 10px ;
+  } 
+  /* input{
+    font-size: xx-large;
+    /* color: brown; 
+    background-color: black;
+    color: aliceblue;
+  } */
+  /* input{
+    border: 2px solid red;
+    border-radius: 10px;
+  } */
+  /* input:hover{
+    background-color: skyblue;
+  }
+  input:focus{
+    border: 5px solid red;
+     outline: none;
+  } */
+  /* #email{
+    background-image: url(./icons8-email-100.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    padding-left: 20px ;
+  }
+  #Github{
+    background-image: url(./icons8-github.svg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    padding-left: 20px ;
+  }
+  body{
+    border: 2px solid rgb(17, 16, 16);
+    width: 300px ;
+    margin: 20px;
+    padding: 50px;
+  } */
+  /* STYLING FEILDSETS AND LEGEND */
+  /* fieldset {
+    width: 350px;
+    border: 1px solid #dcdcdc;
+    border-radius: 10px;
+    padding: 20px;
+    text-align: center;}
+      legend {
+    background-color: #efefef;
+    border: 1px solid #dcdcdc;
+    border-radius: 10px;
+    padding: 10px 20px;
+    text-align: left;
+    text-transform: uppercase;}   */
+    /* CURSOR */
+    #submit-btn:hover{
+      cursor: crosshair;
+    }
+
